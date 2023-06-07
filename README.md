@@ -77,7 +77,7 @@
 ## 👷‍♂️ Admin
 ### Admin Menu
 <div align="center">
-    <img src="https://imgur.com/QTaMESv">
+    <img src="https://imgur.com/QTaMESv.png">
 </div> 
   
 ### Admin Registration
