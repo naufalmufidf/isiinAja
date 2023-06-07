@@ -66,7 +66,7 @@
   
 ### Transaction
 <div align="center">
-    <img src="https://imgur.com/rWZT9WC.png">
+    <img src="https://imgur.com/M8zEICv.png">
 </div>  
   
 ### Feedback
@@ -76,7 +76,22 @@
   
 ## 👷‍♂️ Admin
 ### Admin Menu
+<div align="center">
+    <img src="https://imgur.com/QTaMESv">
+</div> 
+  
 ### Admin Registration
+<div align="center">
+    <img src="https://imgur.com/lAvCjoA.png">
+    <img src="https://imgur.com/APR2ZC9.png">
+</div> 
+  
 ### User Edit
+<div align="center">
+    <img src="https://imgur.com/rWZT9WC.png">
+</div> 
+  
 ### Database
-
+<div align="center">
+    <img src="https://imgur.com/QTaMESv.png">
+</div> 
