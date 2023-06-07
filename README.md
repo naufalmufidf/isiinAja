@@ -53,7 +53,7 @@
 ### User Menu
 ### Transaction
 ### Feedback
-## 👷‍♂️ Admin
+## 👤 Admin
 ### Admin Menu
 ### Admin Registration
 ### User Edit
