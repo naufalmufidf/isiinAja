@@ -28,15 +28,15 @@
             <li><a href="#-feedback">Feedback</a></li>
           <ul>
         </li>
-        <li>
-          <a href="#-admin">Admin</a>
-          <ul>
-            <li><a href="#-admin-menu">Admin Menu</a></li>
-            <li><a href="#-admin-regist">Admin Registration</a></li>
-            <li><a href="#-admin-edit-user">Edit User</a></li>
-            <li><a href="#-database">Database</a></li>
-          <ul>
-        </li>
+      <li>
+        <a href="#-admin">Admin</a>
+        <ul>
+          <li><a href="#-admin-menu">Admin Menu</a></li>
+          <li><a href="#-admin-regist">Admin Registration</a></li>
+          <li><a href="#-admin-edit-user">Edit User</a></li>
+          <li><a href="#-database">Database</a></li>
+        <ul>
+      </li>
   </ol>
 </details>
 
