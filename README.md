@@ -18,23 +18,23 @@
     <li>
       <a href="#-pages">Pages</a>
       <ul>
-        <li><a href="#-login">Login</a></li>
+        <li><a href="##-login">Login</a></li>
         <li>
-          <a href="#-user">User</a>
+          <a href="##-user">User</a>
           <ul>
-            <li><a href="#-user-regist">User Registration</a></li>
-            <li><a href="#-user-menu">User Menu</a></li>
-            <li><a href="#-transaction">Transaction</a></li>
-            <li><a href="#-feedback">Feedback</a></li>
+            <li><a href="###-user-regist">User Registration</a></li>
+            <li><a href="###-user-menu">User Menu</a></li>
+            <li><a href="###-transaction">Transaction</a></li>
+            <li><a href="###-feedback">Feedback</a></li>
           </ul>
         </li>
       <li>
-        <a href="#-admin">Admin</a>
+        <a href="##-admin">Admin</a>
         <ul>
-          <li><a href="#-admin-menu">Admin Menu</a></li>
-          <li><a href="#-admin-regist">Admin Registration</a></li>
-          <li><a href="#-admin-edit-user">Edit User</a></li>
-          <li><a href="#-database">Database</a></li>
+          <li><a href="###-admin-menu">Admin Menu</a></li>
+          <li><a href="###-admin-regist">Admin Registration</a></li>
+          <li><a href="###-admin-edit-user">Edit User</a></li>
+          <li><a href="###-database">Database</a></li>
         </ul>
       </li>
   </ol>
@@ -46,5 +46,16 @@
 
 📱 isiinAja is a user-friendly mobile credit top-up simulation application designed to simplify the process of recharging mobile credit. isiinAja adopted a user-centered design approach, focusing on simplicity, clarity and ease of navigation.
 
-  
+# 📃 Pages  
+## 🔑 Login
+## 👤 User
+### User Registration
+### User Menu
+### Transaction
+### Feedback
+## 👷‍♂️ Admin
+### Admin Menu
+### Admin Registration
+### User Edit
+### Database
 
