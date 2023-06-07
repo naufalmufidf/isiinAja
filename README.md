@@ -22,19 +22,19 @@
         <li>
           <a href="#-user">User</a>
           <ul>
-            <li><a href="#-user-regist">User Registration</a></li>
-            <li><a href="#-user-menu">User Menu</a></li>
-            <li><a href="#-transaction">Transaction</a></li>
-            <li><a href="#-feedback">Feedback</a></li>
+            <li><a href="#user-registration">User Registration</a></li>
+            <li><a href="#user-menu">User Menu</a></li>
+            <li><a href="#transaction">Transaction</a></li>
+            <li><a href="#feedback">Feedback</a></li>
           </ul>
         </li>
       <li>
         <a href="#-admin">Admin</a>
         <ul>
-          <li><a href="#-admin-menu">Admin Menu</a></li>
-          <li><a href="#-admin-regist">Admin Registration</a></li>
-          <li><a href="#-admin-edit-user">Edit User</a></li>
-          <li><a href="#-database">Database</a></li>
+          <li><a href="#admin-menu">Admin Menu</a></li>
+          <li><a href="#admin-regist">Admin Registration</a></li>
+          <li><a href="#admin-edit-user">Edit User</a></li>
+          <li><a href="#database">Database</a></li>
         </ul>
       </li>
   </ol>
