@@ -1,7 +1,7 @@
 <h1 align="center"> isiinAja </h1> <br>
 <p align="center">
   <a>
-    <img alt="isiinAja" title="isiinAja" src="https://imgur.com/0e0NqdM.png" width="450">
+    <img alt="isiinAja" title="isiinAja" src="https://imgur.com/0e0NqdM.png">
   </a>
 </p>
 
