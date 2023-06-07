@@ -51,24 +51,29 @@
 <div align="center">
     <img src="https://imgur.com/wLETdeZ.png">
 </div>  
+  
 ## 👤 User
 ### User Registration
 <div align="center">
     <img src="https://imgur.com/5wm0RLu.png">
     <img src="https://imgur.com/8MucUuo.png">
 </div>  
+  
 ### User Menu
 <div align="center">
     <img src="https://imgur.com/pbTuRjG.png">
 </div>  
+  
 ### Transaction
 <div align="center">
     <img src="https://imgur.com/rWZT9WC.png">
 </div>  
+  
 ### Feedback
 <div align="center">
     <img src="https://imgur.com/JYaIP6M.png">
 </div>  
+  
 ## 👷‍♂️ Admin
 ### Admin Menu
 ### Admin Registration
